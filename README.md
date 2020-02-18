@@ -1,29 +1,16 @@
-# vue-echarts-example
+# Welcome to vue-echarts-example 👋
+![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
 
-## Project setup
-```
+## Install
+
+```sh
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## Show your support
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+Give a ⭐️ if this project helped you!
 
-### Run your tests
-```
-yarn run test
-```
 
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
